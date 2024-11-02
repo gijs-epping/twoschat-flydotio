@@ -1,0 +1,20 @@
+{
+  "name": "twoschat",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "svelte": "^4.0.0",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "openai": "^4.69.0"
+  }
+}
