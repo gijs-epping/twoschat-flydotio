@@ -80,35 +80,35 @@ TwosChat is a smart chat application that helps you interact with your TwosApp d
 
 ## Getting Started
 
-*** 1. Setting Up Your Account ***
-    To use TwosChat, you'll need three things:
-    - An OpenAI API token
-    - Your TwosApp User ID
-    - Your TwosApp Token
+### 1. Setting Up Your Account
+To use TwosChat, you'll need three things:
+- An OpenAI API token
+- Your TwosApp User ID
+- Your TwosApp Token
 
-*** 2. First-Time Setup ***
-    1. Click the settings button
-    2. Enter your OpenAI token (get it from [OpenAI's website](https://platform.openai.com/api-keys))
-    3. Enter your TwosApp User ID and Token (find instructions [here](https://www.TwosApp.com/6405a41296b108d1a68c713b))
-    4. Click "Save Settings"
-    5. Click "Sync to Vector Store" to load your TwosApp data
+### 2. First-Time Setup
+1. Click the settings button
+2. Enter your OpenAI token (get it from [OpenAI's website](https://platform.openai.com/api-keys))
+3. Enter your TwosApp User ID and Token (find instructions [here](https://www.TwosApp.com/6405a41296b108d1a68c713b))
+4. Click "Save Settings"
+5. Click "Sync to Vector Store" to load your TwosApp data
 
 ## How It Works
 
-*** Data Storage & Security ***
+### Data Storage & Security
 - Your data is stored securely in OpenAI's vector store
 - The app uses your personal OpenAI API key, so your data remains private to your account
 - No data is stored on public servers
 - Your tokens and IDs are saved locally in your browser's storage
 - Each time you sync, old data is automatically cleaned up and replaced with fresh data
 
-*** Chat Interface ***
+### Chat Interface
 - Type your questions or requests in the chat box
 - Press Enter or click the send button to submit
 - The AI will search through your TwosApp data and provide relevant information
 - The AI can understand context and provide detailed responses based on your notes
 
-*** Data Syncing ***
+### Data Syncing
 - Use the "Sync to Vector Store" button in settings when you want to update your data
 - Each sync refreshes all your data, ensuring you have the latest information
 - The app will show you the sync status and any errors if they occur
@@ -128,7 +128,7 @@ TwosChat is a smart chat application that helps you interact with your TwosApp d
 
 ## Troubleshooting
 
-*** Common Issues and Solutions ***
+### Common Issues and Solutions
 
 1. **Chat Not Working**
 - Check if your OpenAI token is valid
@@ -144,7 +144,7 @@ TwosChat is a smart chat application that helps you interact with your TwosApp d
 - Click "Sync to Vector Store" to refresh your data
 - Check if you're using the correct TwosApp account
 
-*** Need More Help? ***
+### Need More Help?
 If you encounter issues not covered in this manual, try:
 1. Clearing your browser cache
 2. Re-entering your credentials
